@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EX_05.MicroServer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7045",
+      "launchBrowser": false
+    }
+  }
+}
