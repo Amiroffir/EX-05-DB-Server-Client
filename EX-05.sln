@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX-05.Entities", "EX_05.Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX-05.Model", "EX-05.Model\EX-05.Model.csproj", "{E1EDBC8D-B16D-49F4-A8D2-6DE3A150F45E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX-05.MicroServer", "EX-05.MicroServer\EX-05.MicroServer.csproj", "{A4E6284A-06ED-49BF-95A4-2D1E98D09034}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX-05.MicroServer", "EX-05.MicroServer\EX-05.MicroServer.csproj", "{A4E6284A-06ED-49BF-95A4-2D1E98D09034}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{780F5518-DBC3-400B-BED1-18E687AD21A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX-05.Data.Sql", "EX-05.Data.Sql\EX-05.Data.Sql.csproj", "{6374EE19-A851-4A04-A146-91BF2AA98869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{780F5518-DBC3-400B-BED1-18E687AD21A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780F5518-DBC3-400B-BED1-18E687AD21A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780F5518-DBC3-400B-BED1-18E687AD21A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6374EE19-A851-4A04-A146-91BF2AA98869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6374EE19-A851-4A04-A146-91BF2AA98869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6374EE19-A851-4A04-A146-91BF2AA98869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6374EE19-A851-4A04-A146-91BF2AA98869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
